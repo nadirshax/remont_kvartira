@@ -1,0 +1,159 @@
+body {
+    background-color: rgb(144, 144, 144);
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1440px;
+    height: 500px;
+}
+
+.logo {
+    margin: 10px -50px;
+    position: absolute;
+    width: 290px;
+    height: 31px;
+}
+
+p {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    color: #947F73;
+    margin: 10px 0px 0px 324px;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 730;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+span {
+    color: #79513A;
+}
+
+.btn {
+    position: absolute;
+    width: 198px;
+    height: 68px;
+    border-radius: 34px;
+    margin: 10px 0px 0px 1260px;
+    border: solid 1px #af7f7f;
+    background-color: initial;
+}
+
+.btn:active {
+    background-color: rgb(255, 191, 0);
+    box-shadow: 0px 8px 0px 0px rgb(202, 139, 30);
+}
+
+.text {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    margin: 0px 0px 0px 47px
+}
+
+.call {
+    position: absolute;
+    width: 58px;
+    height: 43px;
+    border-radius: 89px;
+    margin: -6px 0px 0px -180px;
+}
+
+img {
+    margin: -8px -3px;
+    position: static;
+    width: 1510px;
+    height: 755px;
+}
+
+.btn_items {
+    position: absolute;
+    margin: 0px 0px 0px 675px;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: 725;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 340px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.btn_s {
+    position: absolute;
+    margin: 40px -36px 0px 772px;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 724;
+    line-height: 70px;
+    color: #79513A;
+    cursor: pointer;
+}
+
+.content {
+    margin: 188px 0px 0px 76px;
+    font-size: 30px;
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    color: rgb(109, 89, 26);
+}
+
+h1 {
+    position: absolute;
+    width: 737px;
+    height: 246px;
+    font-family: Montserrat;
+    font-size: 71px;
+    font-weight: 700;
+    line-height: 103px;
+    color: aliceblue;
+}
+
+
+/* card-2 */
+
+.container_2 {
+    margin: 255px -1px 0px 0px;
+    width: 1440px;
+    height: 600px;
+}
+
+.card_cub {
+    margin: 80px 0px 0px 50px;
+    position: absolute;
+    width: 400px;
+    height: 550px;
+    /* background-color: aliceblue; */
+    border: solid 1px red;
+}
+
+.card {
+    position: absolute;
+    width: 1519px;
+    margin-top: 600px;
+}
+
+.img_card_2 {
+    margin: -8px;
+    position: static;
+    width: 1519px;
+    height: 755px;
+}
+
+h2 {
+    position: absolute;
+    width: 567px;
+    height: 9px;
+    margin: 38px 0px 0px 520px;
+    color: aliceblue;
+    align-items: center;
+    font-family: Montserrat;
+    font-size: 64px;
+    font-weight: 727;
+    line-height: 65px;
+}
